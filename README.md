@@ -5,7 +5,8 @@ Esse repositório conterá alguns dos arquivos usados para a criação do Notebo
 ## Grupo
 
 - Vinícius Lourenço Claro Cardoso (180618)
-- Gal Bronstein
-- Karine
-- Lucas Mendes
-- Michel Siqueira
+- Gal Bronstein (160870)
+- Karine Pistili (171469)
+- Lucas Mendes (171070)
+- Michel Siqueira (171118)
+- Deiski Iuri Aoki (191471)
